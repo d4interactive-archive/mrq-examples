@@ -1,5 +1,14 @@
 # MRQ Task Queue Examples
 
+## Installation
+```
+git clone https://github.com/d4interactive/mrq-examples.git
+cd mrq-examples
+virtualenv -p python3 .
+source bin/activate
+pip3 install -r requirements.txt
+```
+
 ## Tasks
 
 Following are the tasks classes reside inside tasks.py:
